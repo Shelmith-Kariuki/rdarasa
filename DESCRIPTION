@@ -1,0 +1,19 @@
+Package: rdarasa
+Title: Training package
+Version: 0.0.1
+Authors@R: 
+    person(given = "Shelmith",
+           family = "Kariuki",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Teaches people how to create a package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports:
+    dplyr,
+    magrittr,
+    ggplot2
