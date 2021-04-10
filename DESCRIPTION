@@ -17,3 +17,5 @@ Imports:
     dplyr,
     magrittr,
     ggplot2
+URL: https://github.com/Shelmith-Kariuki/rdarasa
+BugReports: https://github.com/Shelmith-Kariuki/rdarasa/issues
